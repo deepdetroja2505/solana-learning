@@ -1,0 +1,10 @@
+[package]
+name = "week-26"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "week-26"
+path = "main.rs"
